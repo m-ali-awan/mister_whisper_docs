@@ -13,4 +13,12 @@
             `venv\Scripts\activate`
         4. And then type:
             `pip3 uninstall comfy`
+            <details>
+            <summary>Click to expand and view the image</summary>
+            <p>
+
+            ![screenshot](image-1.png)
+
+            </p>
+            </details>
     > Now, Launch ComfyUI from Stabilty Matrix, and it will work
